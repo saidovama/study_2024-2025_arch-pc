@@ -107,16 +107,25 @@ header-includes:
 
 # Выполнение лабораторной работы
 1. Выполнение git pull (рис. 1)
+
 ![gitpull](image/gitpull.jpg){#fig:001 width=70%}
+
 2. Выполнение make и make clean (рис. 2)
-![makemakeclean](image/makemakeclean.jpg){#fig:001 width=70%}
+
+![makemakeclean](image/makemakeclean.jpg){#fig:002 width=70%}
+
 3. Открыть файл report.md (рис. 3)
-![gedit](image/gedit.jpg){#fig:001 width=70%}
+
+![gedit](image/gedit.jpg){#fig:003 width=70%}
+
 4. Заполнить и скомпелировать отчет (рис.4)
-![pdf](image/pdf.jpg){#fig:001 width=70%}
+
+![pdf](image/pdf.jpg){#fig:004 width=70%}
+
 5. Загузить файлы на гитхаб 
 6. Выполнить самостоятельную работу (рис.6)
-![самраб](image/самраб.jpg){#fig:001 width=70%}
+
+![самраб](image/самраб.jpg){#fig:005 width=70%}
 
 # Выводы
 Освоила процедуры оформления отчетов с помощью легковесного языка разметки Markdown, выполнила лабораторную работу.
